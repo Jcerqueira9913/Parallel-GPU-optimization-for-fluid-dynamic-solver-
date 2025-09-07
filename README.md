@@ -35,6 +35,7 @@ To build and run the solver you will need:
 ## 🚀 How to Build and Run
 
 Inside the `src/` directory there is a `Makefile`.  
+Then you can use ```make``` to compile, this will return executable under the name of ```fluid_sim```.
 By default, it compiles the solver with the following command:  
 
 ```bash
